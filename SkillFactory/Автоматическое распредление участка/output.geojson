@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "output",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32633" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "Feature", "properties": { "name": "Зона застройки" }, "name": "Зона застройки", "restriction": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1905128.400317407213151, 6413125.728770264424384 ], [ 1905138.881873746402562, 6413213.739102003164589 ], [ 1905197.626165940659121, 6413161.630051942542195 ], [ 1905128.400317407213151, 6413125.728770264424384 ] ] ] } },
+{ "type": "Feature", "properties": { "type": "Feature", "properties": { "name": "Лесная зона", "restriction": "no_build" }, "name": "Лесная зона", "restriction": "no_build" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1905163.522714796010405, 6413161.940485556609929 ], [ 1905175.350357172545046, 6413226.300560018979013 ], [ 1905224.304317221045494, 6413182.876707931049168 ], [ 1905163.522714796010405, 6413161.940485556609929 ] ] ] } },
+{ "type": "Feature", "properties": { "type": "Feature", "properties": { "name": "Дорога", "restriction": "no_build" }, "name": "Дорога", "restriction": "no_build" }, "geometry": { "type": "LineString", "coordinates": [ [ 1905151.694081996567547, 6413097.580418395809829 ], [ 1905212.47663450287655, 6413118.51632902957499 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Жилой дом", "restriction": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1905148.0, 6413145.0 ], [ 1905158.0, 6413145.0 ], [ 1905158.0, 6413155.0 ], [ 1905148.0, 6413155.0 ], [ 1905148.0, 6413145.0 ] ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Жилой дом", "restriction": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1905148.0, 6413165.0 ], [ 1905158.0, 6413165.0 ], [ 1905158.0, 6413175.0 ], [ 1905148.0, 6413175.0 ], [ 1905148.0, 6413165.0 ] ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Жилой дом", "restriction": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1905148.0, 6413185.0 ], [ 1905158.0, 6413185.0 ], [ 1905158.0, 6413195.0 ], [ 1905148.0, 6413195.0 ], [ 1905148.0, 6413185.0 ] ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Парк", "restriction": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1905164.0, 6413152.0 ], [ 1905173.0, 6413152.0 ], [ 1905173.0, 6413161.0 ], [ 1905164.0, 6413161.0 ], [ 1905164.0, 6413152.0 ] ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905151.694081996567547, 6413097.580418395809829 ], [ 1905148.0, 6413145.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413145.0 ], [ 1905148.0, 6413165.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413165.0 ], [ 1905148.0, 6413185.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413145.0 ], [ 1905148.0, 6413165.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413145.0 ], [ 1905148.0, 6413185.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413165.0 ], [ 1905148.0, 6413145.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413165.0 ], [ 1905148.0, 6413185.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413185.0 ], [ 1905148.0, 6413145.0 ] ] } },
+{ "type": "Feature", "properties": { "type": null, "properties": null, "name": "Дорога", "restriction": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1905148.0, 6413185.0 ], [ 1905148.0, 6413165.0 ] ] } }
+]
+}
