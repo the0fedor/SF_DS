@@ -4,3 +4,6 @@ ExchangeRates.csv
 PY-16_downloading/data/
 SkillFactory/KAGGLE/hotels.csv
 SkillFactory/PROJECT-5 Задача регрессии/data/
+SkillFactory/EDA-2/wine_cleared.csv
+SkillFactory/ML-8 Продвинутые методы машинного обучения/pipeline_wine.pkl
+SkillFactory/PY-11_pandas_tools/data/citibike-tripdata.csv
